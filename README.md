@@ -187,6 +187,7 @@ Sandboxes, tool connectors, memory, and the plumbing agents run on.
 - **[Mem0](https://mem0.ai/)** — Memory layer that decides what to keep from a conversation and recalls it in later sessions. `Open Source` `API`
 - **[Modal](https://modal.com/)** — Serverless compute for Python, widely used to run agent workloads and inference on demand. `Freemium` `API` `CLI`
 - **[Model Context Protocol](https://modelcontextprotocol.io/)** — Open standard for connecting agents to tools and data, now supported across most major clients. `Open Source` `API` `CLI`
+- **[SIDRA OS](https://agent.sidra-ai.com/)** — Connects supported AI chats to authorised local files, terminal, browser, desktop workflows, memory, and orchestration. `Free Trial` `macOS` `Windows`
 - **[Temporal](https://temporal.io/)** — Durable execution engine that survives crashes and restarts, useful for agents running for hours. `Open Source` `API` `CLI`
 - **[Zep](https://www.getzep.com/)** — Memory service that builds a temporal knowledge graph from conversations rather than storing raw text. `Freemium` `API`
 
